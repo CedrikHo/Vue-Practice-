@@ -1,11 +1,9 @@
 Just practicing basic view page with local json data. 
 
-**VueJS** : https://vuejs.org/v2/guide/
+https://vuejs.org/v2/guide/
 
-**vue cli** : https://cli.vuejs.org/guide/
+https://www.npmjs.com/package/axios
 
-**axios** : https://www.npmjs.com/package/axios
+ https://bootstrap-vue.js.org/docs
 
-**vue bootstrap** : https://bootstrap-vue.js.org/docs
-
-**vue router** : https://router.vuejs.org/guide/
+ https://router.vuejs.org/guide/
